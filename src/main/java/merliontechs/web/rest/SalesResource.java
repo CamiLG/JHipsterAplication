@@ -30,6 +30,7 @@ public class SalesResource {
 
     private static final String ENTITY_NAME = "sales";
 
+
     @Value("${jhipster.clientApp.name}")
     private String applicationName;
 
